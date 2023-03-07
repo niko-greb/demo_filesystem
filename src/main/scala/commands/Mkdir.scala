@@ -2,6 +2,7 @@ package main.scala.commands
 
 import main.scala.filesystem.State
 import main.scala.files.Directory
+import main.scala.files.DirEntry
 
 class Mkdir(name: String) extends Command {
   
