@@ -18,4 +18,4 @@ For more information on the sbt-dotty plugin, see the
         - Some illegal signs — "{name}: illegal entry name!"
     - ls — complete
         - is going to update with type of content
-        for now only ls has only Directory
+        for now ls has only Directory
