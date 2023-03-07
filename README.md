@@ -9,10 +9,10 @@ For more information on the sbt-dotty plugin, see the
 
 ### Commands allowed
 
-    * No command — returns empty promt
-    * Command missing — "Command not found"
-    * Incomplete command — "{name}: incomplete command!"
-    * mkdir — work in progress
-    ** Directory is alredy exists — "Entry {name} already exists!"
-    ** mkdir -p something/somethingElse is not allowed for now — "{name} must not contains separator!"
-    ** Some illegal signs — "{name}: illegal entry name!"
+    - No command — returns empty promt
+    - Command missing — "Command not found"
+    - Incomplete command — "{name}: incomplete command!"
+    - mkdir — work in progress
+        - Directory is alredy exists — "Entry {name} already exists!"
+        - mkdir -p something/somethingElse is not allowed for now — "{name} must not contains separator!"
+        - Some illegal signs — "{name}: illegal entry name!"
